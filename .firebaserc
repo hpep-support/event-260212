@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "hpep-event"
+  },
+  "targets": {},
+  "etags": {}
+}
